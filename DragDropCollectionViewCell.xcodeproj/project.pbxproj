@@ -13,6 +13,7 @@
 		B30A6F522734D2A700951BD0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B30A6F502734D2A700951BD0 /* Main.storyboard */; };
 		B30A6F542734D2AA00951BD0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B30A6F532734D2AA00951BD0 /* Assets.xcassets */; };
 		B30A6F572734D2AA00951BD0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B30A6F552734D2AA00951BD0 /* LaunchScreen.storyboard */; };
+		B30A6F5F2734D76600951BD0 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B30A6F5E2734D76600951BD0 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		B30A6F532734D2AA00951BD0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B30A6F562734D2AA00951BD0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B30A6F582734D2AA00951BD0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B30A6F5E2734D76600951BD0 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				B30A6F4A2734D2A700951BD0 /* AppDelegate.swift */,
 				B30A6F4C2734D2A700951BD0 /* SceneDelegate.swift */,
+				B30A6F5E2734D76600951BD0 /* CollectionViewCell.swift */,
 				B30A6F4E2734D2A700951BD0 /* ViewController.swift */,
 				B30A6F502734D2A700951BD0 /* Main.storyboard */,
 				B30A6F532734D2AA00951BD0 /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			files = (
 				B30A6F4F2734D2A700951BD0 /* ViewController.swift in Sources */,
 				B30A6F4B2734D2A700951BD0 /* AppDelegate.swift in Sources */,
+				B30A6F5F2734D76600951BD0 /* CollectionViewCell.swift in Sources */,
 				B30A6F4D2734D2A700951BD0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
